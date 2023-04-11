@@ -7,3 +7,6 @@ function A2() {
 function A3() {
 
 }
+function A4() {
+
+}
