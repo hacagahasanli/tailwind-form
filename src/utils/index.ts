@@ -5,6 +5,8 @@ let c = "";
 let d = "";
 let e = "";
 let f = "";
+let jk = "";
+
 
 
 
