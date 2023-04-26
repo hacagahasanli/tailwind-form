@@ -1,2 +1,2 @@
-console.log("ASDS")
+console.log("ASD")
 
