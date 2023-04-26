@@ -1,2 +1,2 @@
-console.log("AS")
+console.log("A")
 
