@@ -1,1 +1,1 @@
-console.log("1234567a")
+console.log("1234567")
